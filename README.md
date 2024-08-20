@@ -11,16 +11,16 @@ This is a Boomi product limitation.
 
 **Step-2:** Export the Public Key and the Private Key from the external tool/software, in .asc format, and store it in your computer.
 
-**Step-3:** In Boomi, create a "PGP Certificate" compinent. Select "Import" option. Import the Private Key (generated in the first step), put the Password/Passphrase, and click "Finish".
+**Step-3:** In Boomi, create a "PGP Certificate" component. Select "Import" option. Import the Private Key (generated in the first step), put the Password/Passphrase, and click "Finish".
 
-**Step-4:** Share the Public Key with the buondary system team through a secure channel.
+**Step-4:** Share the Public Key with the boundary system team through a secure channel.
 
 ## Generate PGP Certificate in macOS
 **Step-1:** Download the [GPG Keychain](https://gpgtools.org/) application.
 
 **Step-2:** Install the downloaded .dmg file.
 
-**Step-3:** Select the "New" button to create the new certficate. A pop-up window will open.
+**Step-3:** Select the "New" button to create the new certificate. A pop-up window will open.
 ![image](https://github.com/user-attachments/assets/5c52ef22-7713-4b4f-88e3-06d6e94c1954)
 
 **Step-4:** Put the values as per your requirements, and click on the "Create Key" button. Please find a sample screenshot below.
