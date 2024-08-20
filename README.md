@@ -16,7 +16,7 @@ This is a Boomi product limitation.
 **Step-4:** Share the Public Key with the buondary system team through a secure channel.
 
 ## Generate PGP Certificate in macOS
-**Step-1:** Download the [GPG Keygen] (https://gpgtools.org/)
+**Step-1:** Download the [GPG Keygen](https://gpgtools.org/)
 
 **Step-2:** Install the downloaded .dmg file.
 
