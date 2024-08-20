@@ -1,4 +1,4 @@
-# Create PGP Certitificate for Boomi with Expiry Date
+# Create PGP Certificate for Boomi with Expiry Date
 
 ## Problem Statement
 When we create a PGP Certificate in Boomi, the Expiry Date isn't set by Boomi. Some boundary systems require the expirt date to be set, as per their information security protocol.
