@@ -1,13 +1,13 @@
-# Create PGP Certificate for Boomi with Expiry Date
+# Create PGP Certificate for Boomi with Expiry Date in Mac OS
 
 ## Problem Statement
-When we create a PGP Certificate in Boomi, the Expiry Date isn't set by Boomi. Some boundary systems require the expirt date to be set, as per their information security protocol.
+When we create a PGP Certificate in Boomi, the Expiry Date isn't set by Boomi. Some boundary systems require the expiry date to be set, in accordance to their information security guidelines.
 
 ## Analysis
 This is a Boomi product limitation.
 
 ## Solution
-**Step-1:** Generate the PGP Certificate in an external tool/software. Keep a note of the Password/Passphrase, as it will be required in a later step.
+**Step-1:** Generate the PGP Certificate in an external tool/software. Make a note of the Password/Passphrase, as it will be required in a later step.
 
 **Step-2:** Export the Public Key and the Private Key from the external tool/software, in .asc format, and store it in your computer.
 
